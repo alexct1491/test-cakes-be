@@ -1,0 +1,99 @@
+{
+  "cakes": [
+    {
+      "id": "bxosuEVLDjNj3V6o5hYHvd",
+      "name": "Torta mimosa",
+      "price": 18,
+      "description": "Torta Mimosa Fragole, il dolce ideale per far felici davvero tutti. Con soffice pan di spagna bianco alla vaniglia, deliziosa crema chantilly e succose fettine di fragola. Sulla torta è possibile aggiungere il proprio messaggio di auguri, realizzato a mano con cioccolato dai nostri maestri pasticcieri.",
+      "available": [
+        { "date": "2023-04-25T13:25:46.558Z", "timestamp": 1682429146558 },
+        { "date": "2023-04-25T13:25:46.558Z", "timestamp": 1682429146558 },
+        { "date": "2023-04-25T13:25:46.558Z", "timestamp": 1682429146558 },
+        { "date": "2023-04-25T13:25:46.558Z", "timestamp": 1682429146558 },
+        { "date": "2023-04-25T13:25:46.558Z", "timestamp": 1682429146558 }
+      ],
+      "image": "bxosuEVLDjNj3V6o5hYHvd.jpeg",
+      "ingredients": [
+        { "name": "limone", "quantity": "4" },
+        { "name": "farina ", "quantity": "300" }
+      ]
+    },
+    {
+      "id": "nZxCwjUhh7B8wbJRxYfyc4",
+      "name": "Torta Pan di Stelle",
+      "price": 20,
+      "description": "Gustosissima torta al cuor di cioccolato con biscotti pan di stelle e nutella",
+      "available": [
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 },
+        { "date": "2023-04-25T13:41:17.265Z", "timestamp": 1682430077265 }
+      ],
+      "image": "nZxCwjUhh7B8wbJRxYfyc4.jpeg",
+      "ingredients": []
+    },
+    {
+      "id": "doetJ2m7BLQyxbUqF6Lvio",
+      "name": "cheesecake alla fragola",
+      "price": 16,
+      "description": "ottima cheesecake  alla fragola",
+      "available": [
+        { "date": "2023-04-25T17:46:35.165Z", "timestamp": 1682444795165 },
+        { "date": "2023-04-25T17:46:35.165Z", "timestamp": 1682444795165 },
+        { "date": "2023-04-25T17:46:35.165Z", "timestamp": 1682444795165 },
+        { "date": "2023-04-25T17:46:35.165Z", "timestamp": 1682444795165 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 },
+        { "date": "2023-05-04T09:30:21.898Z", "timestamp": 1683192621898 }
+      ],
+      "image": "doetJ2m7BLQyxbUqF6Lvio.jpeg",
+      "ingredients": []
+    },
+    {
+      "id": "e3Wy6zU3nCxXHbo3wRdQu5",
+      "name": "Torta al pistacchio",
+      "price": 20,
+      "description": "buonissima torta al pistacchio",
+      "available": [
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 },
+        { "date": "2023-04-28T12:20:10.732Z", "timestamp": 1682684410732 }
+      ],
+      "image": "e3Wy6zU3nCxXHbo3wRdQu5.jpeg",
+      "ingredients": [
+        { "name": "pistacchio", "quantity": "400" },
+        { "name": "farina", "quantity": "200" }
+      ]
+    },
+    {
+      "id": "hBf9AFC4yvXBcPtCLzxUog",
+      "name": "Torta Paradiso",
+      "price": 16,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "available": [
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 },
+        { "date": "2023-05-01T16:58:23.526Z", "timestamp": 1682960303526 }
+      ],
+      "image": "hBf9AFC4yvXBcPtCLzxUog.jpeg",
+      "ingredients": []
+    }
+  ]
+}
